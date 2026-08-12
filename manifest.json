@@ -1,0 +1,565 @@
+{
+  "count": 35,
+  "lessons": [
+    {
+      "book": 1,
+      "chapter": "5+6 supplement",
+      "supplement": true,
+      "title": "曼谷餐飲實戰補充",
+      "source_name": "thai-01-ch5+6 supplement-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Day 5＋6 Supplement｜曼谷餐飲實戰補充.html",
+      "counts": {
+        "vocab": 27,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 0,
+        "dialogues": 4,
+        "practice": 3
+      }
+    },
+    {
+      "book": 1,
+      "chapter": "5",
+      "supplement": false,
+      "title": "點飲料、量詞與容器",
+      "source_name": "thai-01-ch5-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Chapter 05｜點飲料、量詞與容器.html",
+      "counts": {
+        "vocab": 30,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 1,
+      "chapter": "6",
+      "supplement": false,
+      "title": "點餐、口味與結帳",
+      "source_name": "thai-01-ch6-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Chapter 06｜點餐、口味與結帳.html",
+      "counts": {
+        "vocab": 30,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 1,
+      "chapter": "7",
+      "supplement": false,
+      "title": "衣物穿戴與生活地點",
+      "source_name": "thai-01-ch7-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Chapter 07｜衣物穿戴與生活地點.html",
+      "counts": {
+        "vocab": 30,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 1,
+      "chapter": "8",
+      "supplement": false,
+      "title": "國家地點與交通方向",
+      "source_name": "thai-01-ch8-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Chapter 08｜國家地點與交通方向.html",
+      "counts": {
+        "vocab": 30,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 1,
+      "chapter": "9",
+      "supplement": false,
+      "title": "搭乘交通與移動方式",
+      "source_name": "thai-01-ch9-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Chapter 09｜搭乘交通與移動方式.html",
+      "counts": {
+        "vocab": 30,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 1,
+      "chapter": "10",
+      "supplement": false,
+      "title": "語言能力與水果市場",
+      "source_name": "thai-01-ch10-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Chapter 10｜語言能力與水果市場.html",
+      "counts": {
+        "vocab": 30,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 1,
+      "chapter": "11",
+      "supplement": false,
+      "title": "時間日期與活動安排",
+      "source_name": "thai-01-ch11-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Chapter 11｜時間日期與活動安排.html",
+      "counts": {
+        "vocab": 30,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 1,
+      "chapter": "12",
+      "supplement": false,
+      "title": "經驗表達與泰式時間",
+      "source_name": "thai-01-ch12-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Chapter 12｜經驗表達與泰式時間.html",
+      "counts": {
+        "vocab": 30,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 1,
+      "chapter": "13",
+      "supplement": false,
+      "title": "形容詞、相反詞與比較",
+      "source_name": "thai-01-ch13-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Chapter 13｜形容詞、相反詞與比較.html",
+      "counts": {
+        "vocab": 30,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 1,
+      "chapter": "14",
+      "supplement": false,
+      "title": "家庭成員與年齡比較",
+      "source_name": "thai-01-ch14-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Chapter 14｜家庭成員與年齡比較.html",
+      "counts": {
+        "vocab": 30,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 1,
+      "chapter": "15",
+      "supplement": false,
+      "title": "請求協助與環境調整",
+      "source_name": "thai-01-ch15-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Chapter 15｜請求協助與環境調整.html",
+      "counts": {
+        "vocab": 30,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 1,
+      "chapter": "16",
+      "supplement": false,
+      "title": "轉述翻譯與接待客人",
+      "source_name": "thai-01-ch16-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Chapter 16｜轉述翻譯與接待客人.html",
+      "counts": {
+        "vocab": 30,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 1,
+      "chapter": "17",
+      "supplement": false,
+      "title": "種類味道與身體不適",
+      "source_name": "thai-01-ch17-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Chapter 17｜種類味道與身體不適.html",
+      "counts": {
+        "vocab": 30,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 1,
+      "chapter": "18",
+      "supplement": false,
+      "title": "原因、探望與社交邀約",
+      "source_name": "thai-01-ch18-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Chapter 18｜原因、探望與社交邀約.html",
+      "counts": {
+        "vocab": 28,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 1,
+      "chapter": "19",
+      "supplement": false,
+      "title": "最高級、最喜歡與日常聯絡",
+      "source_name": "thai-01-ch19-audio.html",
+      "file": "RTL Notes Handbook｜Book 1 Chapter 19｜最高級、最喜歡與日常聯絡.html",
+      "counts": {
+        "vocab": 27,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "1",
+      "supplement": false,
+      "title": "通勤時間與料理點餐",
+      "source_name": "thai-02-ch1-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 01｜通勤時間與料理點餐.html",
+      "counts": {
+        "vocab": 35,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "2",
+      "supplement": false,
+      "title": "正在進行、ให้ 與家事比較",
+      "source_name": "thai-02-ch2-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 02｜正在進行、ให้ 與家事比較.html",
+      "counts": {
+        "vocab": 40,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "3",
+      "supplement": false,
+      "title": "柔和意見、程度與租屋金錢",
+      "source_name": "thai-02-ch3-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 03｜柔和意見、程度與租屋金錢.html",
+      "counts": {
+        "vocab": 40,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 3,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "4",
+      "supplement": false,
+      "title": "進出方向、生活禮貌與禁止",
+      "source_name": "thai-02-ch4-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 04｜進出方向、生活禮貌與禁止.html",
+      "counts": {
+        "vocab": 29,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 4,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "5",
+      "supplement": false,
+      "title": "如果情境與正式電話流程",
+      "source_name": "thai-02-ch5-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 05｜如果情境與正式電話流程.html",
+      "counts": {
+        "vocab": 23,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 3,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "6",
+      "supplement": false,
+      "title": "列舉、帶東西與帶人",
+      "source_name": "thai-02-ch6-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 06｜列舉、帶東西與帶人.html",
+      "counts": {
+        "vocab": 34,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 2,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "7",
+      "supplement": false,
+      "title": "地址、文件與地理介紹",
+      "source_name": "thai-02-ch7-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 07｜地址、文件與地理介紹.html",
+      "counts": {
+        "vocab": 40,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 3,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "8",
+      "supplement": false,
+      "title": "放置收納、位置詞與身體部位",
+      "source_name": "thai-02-ch8-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 08｜放置收納、位置詞與身體部位.html",
+      "counts": {
+        "vocab": 36,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 4,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "9",
+      "supplement": false,
+      "title": "時間先後、一起/相同與交通",
+      "source_name": "thai-02-ch9-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 09｜時間先後、一起・相同與交通.html",
+      "counts": {
+        "vocab": 35,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 4,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "10",
+      "supplement": false,
+      "title": "時間副詞、先後順序與 ฝาก 用法",
+      "source_name": "thai-02-ch10-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 10｜時間副詞、先後順序與 ฝาก 用法.html",
+      "counts": {
+        "vocab": 19,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "11",
+      "supplement": false,
+      "title": "月份、直到/整段時間與建議句",
+      "source_name": "thai-02-ch11-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 11｜月份、直到・整段時間與建議句.html",
+      "counts": {
+        "vocab": 24,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "12",
+      "supplement": false,
+      "title": "季節天氣、可能性與還要多久到",
+      "source_name": "thai-02-ch12-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 12｜季節天氣、可能性與還要多久到.html",
+      "counts": {
+        "vocab": 27,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "13",
+      "supplement": false,
+      "title": "拿去/來取、提醒禁止與生活服務",
+      "source_name": "thai-02-ch13-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 13｜拿去・來取、提醒禁止與生活服務.html",
+      "counts": {
+        "vocab": 32,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "14",
+      "supplement": false,
+      "title": "平常/特別、假設與訂票訂房",
+      "source_name": "thai-02-ch14-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 14｜平常・特別、假設與訂票訂房.html",
+      "counts": {
+        "vocab": 40,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "15",
+      "supplement": false,
+      "title": "造成結果、破損修補與小心提醒",
+      "source_name": "thai-02-ch15-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 15｜造成結果、破損修補與小心提醒.html",
+      "counts": {
+        "vocab": 28,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "16",
+      "supplement": false,
+      "title": "相同相似不同、能力與語言學習",
+      "source_name": "thai-02-ch16-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 16｜相同相似不同、能力與語言學習.html",
+      "counts": {
+        "vocab": 21,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "17",
+      "supplement": false,
+      "title": "醫院藥局、症狀與吃藥指示",
+      "source_name": "thai-02-ch17-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 17｜醫院藥局、症狀與吃藥指示.html",
+      "counts": {
+        "vocab": 40,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "18",
+      "supplement": false,
+      "title": "持續多久、情緒感受與原因結果",
+      "source_name": "thai-02-ch18-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 18｜持續多久、情緒感受與原因結果.html",
+      "counts": {
+        "vocab": 25,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    },
+    {
+      "book": 2,
+      "chapter": "19",
+      "supplement": false,
+      "title": "辦事先後、銀行開戶與金錢動作",
+      "source_name": "thai-02-ch19-audio.html",
+      "file": "RTL Notes Handbook｜Book 2 Chapter 19｜辦事先後、銀行開戶與金錢動作.html",
+      "counts": {
+        "vocab": 35,
+        "sentences": 10,
+        "focus": 5,
+        "structures": 5,
+        "dialogues": 3,
+        "practice": 4
+      }
+    }
+  ]
+}
